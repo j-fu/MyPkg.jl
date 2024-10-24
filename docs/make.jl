@@ -6,7 +6,8 @@ DocMeta.setdocmeta!(MyPkg, :DocTestSetup, :(using MyPkg); recursive=true)
 makedocs(;
     modules=[MyPkg],
     authors="Jürgen Fuhrmann <juergen-fuhrmann@web.de> and contributors",
-    sitename="MyPkg.jl",
+         sitename="MyPkg.jl",
+         clean=false,
     format=Documenter.HTML(;
         canonical="https://j-fu.github.io/MyPkg.jl",
         edit_link="main",

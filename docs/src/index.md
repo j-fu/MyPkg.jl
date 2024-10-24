@@ -6,6 +6,8 @@ CurrentModule = MyPkg
 
 Documentation for [MyPkg](https://github.com/j-fu/MyPkg.jl).
 
+Test Test
+
 ```@index
 ```
 
