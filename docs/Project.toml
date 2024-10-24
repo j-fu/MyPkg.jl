@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MyPkg = "3cd6a54d-731d-4dbf-b781-4276fd20a30f"
